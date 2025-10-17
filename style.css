@@ -149,7 +149,7 @@ section {
 .specialization-cards .card ul {
     list-style: none;
     padding: 0;
-    text-align: left;
+    text-align: center;
 }
 
 .specialization-cards .card li {
@@ -362,4 +362,5 @@ footer {
     }
 
 }
+
 
