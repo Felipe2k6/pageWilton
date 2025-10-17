@@ -132,6 +132,7 @@ section {
 
 .specialization-cards .card:hover {
     transform: translateY(-10px);
+    color: #0056b3;
 }
 
 .specialization-cards .card i {
@@ -359,4 +360,5 @@ footer {
         flex-direction: row;
         text-align: left;
     }
+
 }
